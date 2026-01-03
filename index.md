@@ -2,7 +2,7 @@
 title: Quang Nguyen (Emmanuel)
 ---
 
-# Hi 👋 I'm Quang
+# Hi 👋 I'm Quang (Emmanuel)
 
 I'm a first-year Engineering of IoT student.
 
